@@ -1,0 +1,17 @@
+.cover__button {
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+  background-color: #0063d2;
+  color: #fff;
+  padding: 13px 20px;
+  cursor: pointer;
+  border-radius: 10px;
+  position: relative;
+}
+
+.cover__button:hover {
+  background-color: #0052a1;
+  transform: scale(1.05);
+}
