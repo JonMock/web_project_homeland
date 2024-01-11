@@ -6,3 +6,15 @@
   line-height: 34px;
   margin-top: 40px;
 }
+
+@media screen and (max-width: 768px) {
+  .intro__paragraph {
+    max-width: 720px;
+  }
+}
+@media screen and (max-width: 320px) {
+  .intro__paragraph {
+    max-width: 288px;
+    line-height: 30px;
+  }
+}
