@@ -7,6 +7,7 @@
   align-items: center;
   text-align: center;
   margin-top: 105px;
+  margin-left: 40px;
   gap: 32px;
   background-image: url(../../images/campo.jpg);
   background-size: cover;
@@ -24,4 +25,18 @@
 }
 .cover:hover::before {
   background-color: rgba(0, 0, 0, 0.5);
+}
+
+@media screen and (max-width: 768px) {
+  .cover {
+    max-height: 254px;
+    max-width: 321.26px;
+  }
+}
+
+@media screen and (min-width: 768px) and (max-width: 1024px) {
+  .cover {
+    max-width: 768px;
+    max-height: 746px;
+  }
 }
