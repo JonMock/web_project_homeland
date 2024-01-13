@@ -5,3 +5,5 @@
   line-height: 16px;
   color: #ffffff;
 }
+
+@import url(../blocks/footer/__copyrigth.css);
