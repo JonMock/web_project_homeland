@@ -8,6 +8,8 @@ TECNOLOGIAS UTILIZADAS
 - CSS
 - HTML
 
+git@github.com:JonMock/jonmock.git
+
 DESCRIPCION DEL PROYECTO Y FUNCIONES
 
 Creacion de una pagina web responsiva para todo tipo de dispositivo (movil , tablet y pc) , atravez de grid y conocimientos previos los cuales se ven reflejados en este proyecto se transmite obras de arte de varios paises y ciudades.

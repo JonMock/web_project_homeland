@@ -5,8 +5,9 @@
   line-height: normal;
   background-color: #0063d2;
   color: #fff;
-  padding: 13px 20px;
   cursor: pointer;
+  padding: 13px 20px;
+  text-decoration: none;
   border-radius: 10px;
   position: relative;
 }
